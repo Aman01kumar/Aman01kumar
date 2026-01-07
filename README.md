@@ -1,4 +1,4 @@
-# Hi, I'm Aman Kumar 👋
+# Hi, I'm Aman Kumar 
 
 I'm a **Computer Science and Engineering undergraduate** at **Galgotias University** with a strong foundation in **Data Structures & Algorithms**, **full-stack web development**, and **AI-powered applications**. I enjoy building scalable systems that solve real-world problems and focusing on clean, maintainable code.
 
